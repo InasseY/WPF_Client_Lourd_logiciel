@@ -1,0 +1,15 @@
+\\vmware-host\Shared Folders\Documents\Formation Doc.net\WPF_Formulaires\WPF_Formulaires\bin\Debug\WPF_Formulaires.exe.config
+\\vmware-host\Shared Folders\Documents\Formation Doc.net\WPF_Formulaires\WPF_Formulaires\bin\Debug\WPF_Formulaires.exe
+\\vmware-host\Shared Folders\Documents\Formation Doc.net\WPF_Formulaires\WPF_Formulaires\bin\Debug\WPF_Formulaires.pdb
+\\vmware-host\Shared Folders\Documents\Formation Doc.net\WPF_Formulaires\WPF_Formulaires\obj\Debug\WPF_Formulaires.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\Formation Doc.net\WPF_Formulaires\WPF_Formulaires\obj\Debug\MainWindow.g.cs
+\\vmware-host\Shared Folders\Documents\Formation Doc.net\WPF_Formulaires\WPF_Formulaires\obj\Debug\App.g.cs
+\\vmware-host\Shared Folders\Documents\Formation Doc.net\WPF_Formulaires\WPF_Formulaires\obj\Debug\WPF_Formulaires_MarkupCompile.cache
+\\vmware-host\Shared Folders\Documents\Formation Doc.net\WPF_Formulaires\WPF_Formulaires\obj\Debug\WPF_Formulaires_MarkupCompile.lref
+\\vmware-host\Shared Folders\Documents\Formation Doc.net\WPF_Formulaires\WPF_Formulaires\obj\Debug\MainWindow.baml
+\\vmware-host\Shared Folders\Documents\Formation Doc.net\WPF_Formulaires\WPF_Formulaires\obj\Debug\WPF_Formulaires.g.resources
+\\vmware-host\Shared Folders\Documents\Formation Doc.net\WPF_Formulaires\WPF_Formulaires\obj\Debug\WPF_Formulaires.Properties.Resources.resources
+\\vmware-host\Shared Folders\Documents\Formation Doc.net\WPF_Formulaires\WPF_Formulaires\obj\Debug\WPF_Formulaires.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\Documents\Formation Doc.net\WPF_Formulaires\WPF_Formulaires\obj\Debug\WPF_Formulaires.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Documents\Formation Doc.net\WPF_Formulaires\WPF_Formulaires\obj\Debug\WPF_Formulaires.exe
+\\vmware-host\Shared Folders\Documents\Formation Doc.net\WPF_Formulaires\WPF_Formulaires\obj\Debug\WPF_Formulaires.pdb
