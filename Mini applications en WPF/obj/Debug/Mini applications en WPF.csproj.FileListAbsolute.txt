@@ -1,0 +1,15 @@
+\\vmware-host\Shared Folders\Documents\Formation Doc.net\Mini applications en WPF\Mini applications en WPF\bin\Debug\Mini applications en WPF.exe.config
+\\vmware-host\Shared Folders\Documents\Formation Doc.net\Mini applications en WPF\Mini applications en WPF\bin\Debug\Mini applications en WPF.exe
+\\vmware-host\Shared Folders\Documents\Formation Doc.net\Mini applications en WPF\Mini applications en WPF\bin\Debug\Mini applications en WPF.pdb
+\\vmware-host\Shared Folders\Documents\Formation Doc.net\Mini applications en WPF\Mini applications en WPF\obj\Debug\Mini applications en WPF.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\Formation Doc.net\Mini applications en WPF\Mini applications en WPF\obj\Debug\MainWindow.g.cs
+\\vmware-host\Shared Folders\Documents\Formation Doc.net\Mini applications en WPF\Mini applications en WPF\obj\Debug\App.g.cs
+\\vmware-host\Shared Folders\Documents\Formation Doc.net\Mini applications en WPF\Mini applications en WPF\obj\Debug\Mini applications en WPF_MarkupCompile.cache
+\\vmware-host\Shared Folders\Documents\Formation Doc.net\Mini applications en WPF\Mini applications en WPF\obj\Debug\Mini applications en WPF_MarkupCompile.lref
+\\vmware-host\Shared Folders\Documents\Formation Doc.net\Mini applications en WPF\Mini applications en WPF\obj\Debug\MainWindow.baml
+\\vmware-host\Shared Folders\Documents\Formation Doc.net\Mini applications en WPF\Mini applications en WPF\obj\Debug\Mini applications en WPF.g.resources
+\\vmware-host\Shared Folders\Documents\Formation Doc.net\Mini applications en WPF\Mini applications en WPF\obj\Debug\Mini_applications_en_WPF.Properties.Resources.resources
+\\vmware-host\Shared Folders\Documents\Formation Doc.net\Mini applications en WPF\Mini applications en WPF\obj\Debug\Mini applications en WPF.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\Documents\Formation Doc.net\Mini applications en WPF\Mini applications en WPF\obj\Debug\Mini applications en WPF.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Documents\Formation Doc.net\Mini applications en WPF\Mini applications en WPF\obj\Debug\Mini applications en WPF.exe
+\\vmware-host\Shared Folders\Documents\Formation Doc.net\Mini applications en WPF\Mini applications en WPF\obj\Debug\Mini applications en WPF.pdb
