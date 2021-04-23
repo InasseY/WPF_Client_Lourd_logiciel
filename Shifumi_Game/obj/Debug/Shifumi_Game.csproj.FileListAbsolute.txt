@@ -1,0 +1,15 @@
+\\vmware-host\Shared Folders\Documents\Formation Doc.net\Shifumi_Game\Shifumi_Game\obj\Debug\Shifumi_Game.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\Formation Doc.net\Shifumi_Game\Shifumi_Game\obj\Debug\MainWindow.g.cs
+\\vmware-host\Shared Folders\Documents\Formation Doc.net\Shifumi_Game\Shifumi_Game\obj\Debug\App.g.cs
+\\vmware-host\Shared Folders\Documents\Formation Doc.net\Shifumi_Game\Shifumi_Game\obj\Debug\Shifumi_Game_MarkupCompile.cache
+\\vmware-host\Shared Folders\Documents\Formation Doc.net\Shifumi_Game\Shifumi_Game\obj\Debug\Shifumi_Game_MarkupCompile.lref
+\\vmware-host\Shared Folders\Documents\Formation Doc.net\Shifumi_Game\Shifumi_Game\bin\Debug\Shifumi_Game.exe.config
+\\vmware-host\Shared Folders\Documents\Formation Doc.net\Shifumi_Game\Shifumi_Game\bin\Debug\Shifumi_Game.exe
+\\vmware-host\Shared Folders\Documents\Formation Doc.net\Shifumi_Game\Shifumi_Game\bin\Debug\Shifumi_Game.pdb
+\\vmware-host\Shared Folders\Documents\Formation Doc.net\Shifumi_Game\Shifumi_Game\obj\Debug\MainWindow.baml
+\\vmware-host\Shared Folders\Documents\Formation Doc.net\Shifumi_Game\Shifumi_Game\obj\Debug\Shifumi_Game.g.resources
+\\vmware-host\Shared Folders\Documents\Formation Doc.net\Shifumi_Game\Shifumi_Game\obj\Debug\Shifumi_Game.Properties.Resources.resources
+\\vmware-host\Shared Folders\Documents\Formation Doc.net\Shifumi_Game\Shifumi_Game\obj\Debug\Shifumi_Game.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\Documents\Formation Doc.net\Shifumi_Game\Shifumi_Game\obj\Debug\Shifumi_Game.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Documents\Formation Doc.net\Shifumi_Game\Shifumi_Game\obj\Debug\Shifumi_Game.exe
+\\vmware-host\Shared Folders\Documents\Formation Doc.net\Shifumi_Game\Shifumi_Game\obj\Debug\Shifumi_Game.pdb
