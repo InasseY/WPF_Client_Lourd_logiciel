@@ -1,0 +1,38 @@
+﻿<Page x:Class="Agenda_Again.addCustomer"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Agenda_Again"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="addCustomer">
+
+    <Grid Background="#FFE0E1E3">
+        <Grid Margin="25,78,45,25">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <Label Grid.ColumnSpan="2" HorizontalAlignment="Right" Margin="0,0,668,0" Width="62" Content="Nom :" Foreground="#FF871F66"/>
+            <TextBox x:Name="txtName" Grid.Column="1" Margin="0,0,0,5" HorizontalAlignment="Left" Width="210" />
+            <TextBox x:Name="txtfirstName"  Margin="1,34,0,265" HorizontalAlignment="Left" Width="210" Grid.Row="2" Grid.Column="1" />
+            <TextBox x:Name="email" Margin="1,95,0,205" HorizontalAlignment="Left" Width="210" Grid.Row="2" Grid.Column="1" />
+            <TextBox x:Name="phoneNumber" Margin="1,152,0,142" HorizontalAlignment="Left" Width="210" Grid.Row="2" Grid.Column="1" />
+            <Label Content="Prénom :" Margin="0,35,17,255" Grid.Row="2" Foreground="#FFFB8E36"/>
+            <Label Content="Email :" Margin="0,94,17,196" Grid.Row="2" Foreground="#FF498E37"/>
+            <Label Content="Numéro :" Margin="0,149,14,141" Grid.Row="2" Foreground="#FF11A1BD"/>
+            <Label Content="Budget :" Margin="0,209,16.5,81" Grid.Row="2" Foreground="#FF275853"/>
+            <TextBox x:Name="budget" Margin="1,213,0,82" HorizontalAlignment="Left" Width="210" Grid.Row="2" Grid.Column="1" />
+            <Image Grid.Column="1" HorizontalAlignment="Left" Height="210" Margin="284,25,0,0" VerticalAlignment="Top" Width="344" Source="meeting.jpg" Grid.Row="2"/>
+            <Button x:Name="btnAdd" Content="Valider" Grid.Column="1" HorizontalAlignment="Left" Margin="121,271,0,0" Grid.Row="2" VerticalAlignment="Top" Width="90" Background="#FF589855" Foreground="#FFFFFCFC" Click="Add"/>
+            <Button x:Name="btncancel" Content="Annuler" Grid.Column="1" HorizontalAlignment="Left" Margin="3,271,0,0" Grid.Row="2" VerticalAlignment="Top" Width="90" Background="#FFDB1515" Foreground="#FFFFFCFC"/>
+        </Grid>
+        <Label Content="Ajout Clients" HorizontalAlignment="Left" Margin="330,20,0,0" VerticalAlignment="Top" Width="135" Background="{x:Null}" Foreground="#FF153F64" FontSize="22" FontFamily="Times New Roman"/>
+    </Grid>
+</Page>

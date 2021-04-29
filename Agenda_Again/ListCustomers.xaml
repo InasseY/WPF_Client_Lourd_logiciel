@@ -1,0 +1,17 @@
+﻿<Page x:Class="Agenda_Again.ListCustomers"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Agenda_Again"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="ListCustomers">
+
+    <Grid Background="#FFF2E9EF">
+        <DataGrid x:Name="gridCustomers" HorizontalAlignment="Left" Height="320" VerticalAlignment="Top" Width="800" Background="#FFF2E9EF" SelectionChanged="gridCustomers_SelectionChanged" Margin="0,128,0,0"/>
+        <Button Content="Charger" HorizontalAlignment="Left" Margin="10,93,0,0" VerticalAlignment="Top" Width="95" Height="30" Click="btn_load" Background="#FF620747" Foreground="#FFFEFAFA"/>
+        <Button Content="Actualiser" HorizontalAlignment="Left" Margin="695,93,0,0" VerticalAlignment="Top" Width="95" Height="30" Click="btn_aclualise" Background="#FF620747" Foreground="#FFFEFAFA"/>
+
+    </Grid>
+</Page>
